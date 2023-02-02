@@ -1,12 +1,8 @@
 # Business Site
-
-Replace this readme with your own information about your project. 
-
-Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
+Our team mob-programming assignment making a business site.
 
 ## The problem
-
-Describe how you approached to problem, and what tools and techniques you used to solve it. How did you plan? What technologies did you use? If you had more time, what would be next?
+We started out with a figjam-sketch showing three different set-ups (mobile-, tablet- and desktop- view). We worked in a team of five testing mob-programmning. We had some issues jet again with centering objects and texts. The hardest callange was the java-spricp part, but Malin figured it out.
 
 ## View it live
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+https://63da879a63c95e141038df70--jade-bavarois-4ee185.netlify.app/
